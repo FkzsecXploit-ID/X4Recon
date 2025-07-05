@@ -45,7 +45,7 @@ chmod +x main.py
 To start the project Tools
 
 ```bash
-python3.11 main.py
+python3.11 main.pyc
 ```
 
 ### Disclaimer: Use env to create a temporary environment.
