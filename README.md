@@ -134,7 +134,7 @@ We are not responsible for your behavior, use it as wisely as possible.
 - TC20
 
 ## 📜 License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See [MIT LICENSE](./LICENSE) for more information.
 
 ## Links
 [![YouTube Badge](https://img.shields.io/static/v1?label=|&message=YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fkzz_id?si=2iKh-_gak2JPjffW) [![Telegram Badge](https://img.shields.io/static/v1?label=|&message=Telegram&color=lightblue&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dlp46sec) [![Telegram Badge](https://img.shields.io/static/v1?label=|&message=Telegram2&color=lightblue&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/noxleviathan404) [![TikTok Badge](https://img.shields.io/static/v1?label=|&message=TikTok&color=Gray&style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fkzsec.id)
