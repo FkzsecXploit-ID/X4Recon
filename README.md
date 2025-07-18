@@ -132,6 +132,7 @@ We are not responsible for your behavior, use it as wisely as possible.
 ## Thanks for :3
 - null:Nothing_left.
 - TC20
+- Damnboy <3
 
 ## 📜 License
 Distributed under the MIT License. See [MIT LICENSE](./LICENSE.txt) for more information.
